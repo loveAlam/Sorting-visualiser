@@ -1,5 +1,7 @@
 # Sorting-Visualizer
 A pictorial representation demonstrating how Data Structures and Algorithms can be used to sort any data.
+![Example Image](https://github.com/loveAlam/Sorting-visualiser/blob/main/Screenshot%202024-07-06%20215524.png)
+
 
 # Visualization of the algorithms.
 The visualizer basically plays with colors to better understand what is happening in the algorithm. The data here is the bars that are generated randomly with arbitrary heights. 
